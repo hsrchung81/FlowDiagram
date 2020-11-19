@@ -1,29 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T21:44:44.805Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="LxXA_bI9Xhv2jOreL3oY" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T22:02:12.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="LCfjI544PBy4Bnulw5rG" version="13.9.7" type="github">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
-    <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
+    <mxGraphModel dx="3175.5" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="aCeqfkJO3difu99GmHPl-60" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;Ne&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="720" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aCeqfkJO3difu99GmHPl-57" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;Ne&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="409" width="340" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="aCeqfkJO3difu99GmHPl-59" value="Network Firewall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="278.5" y="414.5" width="290.5" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-41" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;BNCR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="260" y="110" width="340" height="89.5" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-29" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Application%20Layer%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22250%22%20y%3D%22460%22%20width%3D%22750%22%20height%3D%22120%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="610" y="417.5" width="370" height="212.5" as="geometry" />
+          <mxGeometry x="610" y="410" width="370" height="315.5" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-23" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;Nas Porta&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="417.5" width="340" height="210" as="geometry" />
+          <mxGeometry x="260" y="510" width="340" height="213" as="geometry" />
         </mxCell>
-        <mxCell id="23046e2b9bb16c14-113" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="120" y="40" width="1510" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="23046e2b9bb16c14-114" value="Subtitle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=10;fontColor=#009BFF;" parent="1" vertex="1">
-          <mxGeometry x="114" y="90" width="1526" height="20" as="geometry" />
+        <mxCell id="23046e2b9bb16c14-113" value="NAS Architect Stack" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;rounded=0;shadow=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="-149.36" y="40" width="1510" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-9" value="AWS Cognito" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="427.5" width="170" height="82.5" as="geometry" />
+          <mxGeometry x="630.01" y="500" width="340" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aCeqfkJO3difu99GmHPl-10" value="AWS API Gateway" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="627" y="427.5" width="163" height="82.5" as="geometry" />
+        <mxCell id="aCeqfkJO3difu99GmHPl-10" value="AWS API Gateway" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="630" y="427.5" width="340" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="210" width="340" height="70" as="geometry" />
@@ -35,22 +41,22 @@
           <mxGeometry x="387.5" y="217" width="73" height="55" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-17" value="NAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="278.5" y="517.5" width="211.5" height="80" as="geometry" />
+          <mxGeometry x="278.5" y="613" width="211.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-22" value="Fortiweb Application Firewall" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279.5" y="427.5" width="290.5" height="80" as="geometry" />
+          <mxGeometry x="279.5" y="523" width="290.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-26" value="Mule (Integration Layer)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="520" width="340" height="80" as="geometry" />
+          <mxGeometry x="630" y="570" width="340" height="125.5" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-30" value="NAS Portal&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="387.5" y="607.5" width="92" height="20" as="geometry" />
+          <mxGeometry x="387.5" y="703" width="92" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aCeqfkJO3difu99GmHPl-31" value="NAS Integration Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735.75" y="600" width="145.25" height="20" as="geometry" />
+        <mxCell id="aCeqfkJO3difu99GmHPl-31" value="Integration Layer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="727.38" y="703" width="145.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-32" value="NAS API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="517.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="490" y="613" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-34" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;BNCR&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="610" y="110" width="370" height="170" as="geometry" />
@@ -68,16 +74,22 @@
           <mxGeometry x="399" y="129.5" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-46" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/internet_cloud.svg;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="519" y="290" width="191" height="120.33" as="geometry" />
+          <mxGeometry x="531.27" y="295" width="148.73" height="93.7" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-48" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Web_Application_Firewall_Policies_WAF.svg;gradientColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="290" y="440" width="52.5" height="52.5" as="geometry" />
+          <mxGeometry x="290" y="535.5" width="52.5" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-50" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="637" y="440" width="40" height="37.5" as="geometry" />
+          <mxGeometry x="650" y="440" width="40" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="aCeqfkJO3difu99GmHPl-52" value="Amazon Cognito" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cognito;" vertex="1" parent="1">
-          <mxGeometry x="810" y="431.25" width="33" height="72.5" as="geometry" />
+          <mxGeometry x="657" y="505" width="43" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="aCeqfkJO3difu99GmHPl-54" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;gradientColor=#ffffff;align=right;" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="414.5" width="123.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aCeqfkJO3difu99GmHPl-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.971;entryY=0.469;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aCeqfkJO3difu99GmHPl-23" target="aCeqfkJO3difu99GmHPl-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
