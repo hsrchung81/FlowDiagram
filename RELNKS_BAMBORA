@@ -1,140 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T16:19:28.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="sgfevooJsULCMVUykWt5" version="14.7.6" type="github" pages="2">
-  <diagram id="Nf6MTAArrLJP4KrMW6mi" name="NAS Flow">
-    <mxGraphModel dx="2145" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-27" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="240" as="sourcePoint" />
-            <mxPoint x="1680" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-28" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="530" as="sourcePoint" />
-            <mxPoint x="1660" y="530" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-30" value="UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-31" value="NAS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="380" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-33" target="Bmpq29dl8j6iUR_oie_e-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-33" value="Submit an AVM request" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="150" y="80" width="170" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=19;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-34" target="Bmpq29dl8j6iUR_oie_e-35">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-34" value="Display the payment processing page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="170" y="330" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-35" target="Bmpq29dl8j6iUR_oie_e-36">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-35" target="Bmpq29dl8j6iUR_oie_e-67">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="460" y="20" />
-              <mxPoint x="1350" y="20" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-35" value="Credit Card or Debit Card" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="130" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.535;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-36" target="Bmpq29dl8j6iUR_oie_e-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-36" value="Debit Card" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-41" target="Bmpq29dl8j6iUR_oie_e-51">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-41" value="&lt;font style=&quot;font-size: 13px ; line-height: 100%&quot;&gt;Generate Hidden fields for return/callback url.&lt;br&gt;- Payment to charege&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=19;spacing=0;" vertex="1" parent="1">
-          <mxGeometry x="660" y="330" width="170" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-43" value="Bambora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="30" y="630" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-44" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="720" as="sourcePoint" />
-            <mxPoint x="1660" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-45" target="Bmpq29dl8j6iUR_oie_e-56">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-45" value="Select&amp;nbsp; the bank you want to authorize the payment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="790" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-49" value="Interac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="30" y="870" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-51" target="Bmpq29dl8j6iUR_oie_e-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-51" value="Process the content from NAS and redirect to Interact page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="580" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-54" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="920" as="sourcePoint" />
-            <mxPoint x="1660" y="920" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-55" value="Bank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="30" y="990" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-56" target="Bmpq29dl8j6iUR_oie_e-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-56" value="Login to the bank page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="680" y="960" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-58" target="Bmpq29dl8j6iUR_oie_e-59">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-58" value="Authorize" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="950" y="790" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-59" target="Bmpq29dl8j6iUR_oie_e-62">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-59" value="Authorize and generate the response and call specified URL to send the response" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="950" y="580" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-62" target="Bmpq29dl8j6iUR_oie_e-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-62" value="Process the response from Bambora and then generate the UI to display the transaction response" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="310" width="110" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-64" target="Bmpq29dl8j6iUR_oie_e-35">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1120" y="60" />
-              <mxPoint x="494" y="60" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-64" value="Transaction Response. Once received trigger the other browser tab to display the successful order creation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="90" width="140" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Bmpq29dl8j6iUR_oie_e-67" value="Your NAS request # is." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="90" width="140" height="100" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="7ovUAGJkx0Cypjn-y00z" name="Page-2">
+<mxfile host="app.diagrams.net" modified="2021-06-07T16:27:40.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="YYgT119TZt6_i3C-9TIQ" version="14.7.6" type="github" pages="2">
+  <diagram id="7ovUAGJkx0Cypjn-y00z" name="NAS Flow - Debit">
     <mxGraphModel dx="2574" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Sd2mVvzlWALczNaoV908-0" />
@@ -282,6 +147,174 @@
         </mxCell>
         <mxCell id="fjMGs6BEQHiII9r-hOfA-39" value="Backend" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="Sd2mVvzlWALczNaoV908-1">
           <mxGeometry x="90" y="390" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Nf6MTAArrLJP4KrMW6mi" name="RELNKS + HUB">
+    <mxGraphModel dx="2145" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-27" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="240" as="sourcePoint" />
+            <mxPoint x="1680" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-28" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="530" as="sourcePoint" />
+            <mxPoint x="1660" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-30" value="RELNKS UI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-31" value="HUB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="20" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-33" target="TVS7RbJGa-E6Wrr24g-f-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-33" value="Submit an AVM request" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="150" y="80" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="EshRGjnGEXThsRbt6WWN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-34" target="EshRGjnGEXThsRbt6WWN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-34" value="Call Interact API to generate the required value to call the Interac page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="400" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-35" target="Bmpq29dl8j6iUR_oie_e-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-35" target="Bmpq29dl8j6iUR_oie_e-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="20" />
+              <mxPoint x="1350" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-35" value="Credit Card or Debit Card" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-42" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.57;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-36" target="Bmpq29dl8j6iUR_oie_e-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="270" />
+              <mxPoint x="457" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-36" value="Debit Card" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-43" value="Bambora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="30" y="630" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-44" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="720" as="sourcePoint" />
+            <mxPoint x="1660" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-45" target="Bmpq29dl8j6iUR_oie_e-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-45" value="Select&amp;nbsp; the bank you want to authorize the payment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="860" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-49" value="Interac" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="30" y="870" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-51" target="Bmpq29dl8j6iUR_oie_e-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-51" value="Process the content from RELNKS and redirect to Interact page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="860" y="570" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-54" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="920" as="sourcePoint" />
+            <mxPoint x="1660" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-55" value="Bank" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="30" y="990" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-56" target="Bmpq29dl8j6iUR_oie_e-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-56" value="Login to the bank page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="860" y="950" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-58" target="Bmpq29dl8j6iUR_oie_e-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-58" value="Authorize" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="780" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-59" target="Bmpq29dl8j6iUR_oie_e-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-59" value="Authorize and generate the response and call specified URL to send the response" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="570" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.577;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-62" target="Bmpq29dl8j6iUR_oie_e-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-62" value="Process the response from Bambora and then generate the UI to display the transaction response" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="300" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="Bmpq29dl8j6iUR_oie_e-64" target="Bmpq29dl8j6iUR_oie_e-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="60" />
+              <mxPoint x="494" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-64" value="Transaction Response. Once received trigger the other browser tab to display the successful order creation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="90" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Bmpq29dl8j6iUR_oie_e-67" value="Your AVM report is available" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="90" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="EshRGjnGEXThsRbt6WWN-1" target="EshRGjnGEXThsRbt6WWN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EshRGjnGEXThsRbt6WWN-1" value="Bambora Process the request and return the required hidden field" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="EshRGjnGEXThsRbt6WWN-3" target="TVS7RbJGa-E6Wrr24g-f-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="820" y="370" />
+              <mxPoint x="820" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EshRGjnGEXThsRbt6WWN-3" value="Return hidden field to UI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="580" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="TVS7RbJGa-E6Wrr24g-f-2" target="Bmpq29dl8j6iUR_oie_e-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="370" />
+              <mxPoint x="340" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-2" value="Create Order and return to the UI" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=13;fontColor=#990000;" edge="1" parent="1" source="TVS7RbJGa-E6Wrr24g-f-6" target="Bmpq29dl8j6iUR_oie_e-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TVS7RbJGa-E6Wrr24g-f-6" value="Display the Interac processing page" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=13;fontColor=#990000;" vertex="1" parent="1">
+          <mxGeometry x="875" y="90" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
