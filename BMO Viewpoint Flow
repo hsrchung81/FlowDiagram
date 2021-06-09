@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-09T16:22:56.360Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="xQkFgPAuaWcajWALqQpK" version="14.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-09T16:24:04.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="w50bwrpHV7hwV36l5TPp" version="14.7.6" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Current - Viewpoint (Sync)">
     <mxGraphModel dx="685" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,12 +79,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4yBo_4zh-Euhu6z00udv" name="Propose - Viewpoint - Async">
-    <mxGraphModel dx="826" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="4H3UWxO_og-zEYvJPTqE-0" />
         <mxCell id="4H3UWxO_og-zEYvJPTqE-1" parent="4H3UWxO_og-zEYvJPTqE-0" />
         <mxCell id="4H3UWxO_og-zEYvJPTqE-2" value="Viewpoint (async) - Existing NAS Form" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-1">
-          <mxGeometry x="90" y="120" width="720" height="480" as="geometry" />
+          <mxGeometry x="90" y="120" width="720" height="360" as="geometry" />
         </mxCell>
         <mxCell id="4H3UWxO_og-zEYvJPTqE-5" value="BMO" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-2">
           <mxGeometry x="20" width="700" height="120" as="geometry" />
@@ -101,40 +101,8 @@
         <mxCell id="4H3UWxO_og-zEYvJPTqE-25" value="Send Notification" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-5">
           <mxGeometry x="570" y="40" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-0" value="HUB" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-2">
-          <mxGeometry x="20" y="120" width="700" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JRlC7yfzEQlCz_Q4wYrM-0" source="JRlC7yfzEQlCz_Q4wYrM-2" target="JRlC7yfzEQlCz_Q4wYrM-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-2" value="Retrieve the filename for the {id}" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JRlC7yfzEQlCz_Q4wYrM-0">
-          <mxGeometry x="210" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-3" value="Get - /viewpoint" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JRlC7yfzEQlCz_Q4wYrM-0">
-          <mxGeometry x="320" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="JRlC7yfzEQlCz_Q4wYrM-0" source="JRlC7yfzEQlCz_Q4wYrM-5" target="JRlC7yfzEQlCz_Q4wYrM-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-5" value="Transform the response" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JRlC7yfzEQlCz_Q4wYrM-0">
-          <mxGeometry x="414" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-6" value="2.&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JRlC7yfzEQlCz_Q4wYrM-0" source="JRlC7yfzEQlCz_Q4wYrM-7" target="JRlC7yfzEQlCz_Q4wYrM-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="180" y="70" />
-              <mxPoint x="180" y="70" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-7" value="Received {id} to process" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JRlC7yfzEQlCz_Q4wYrM-0">
-          <mxGeometry x="50" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JRlC7yfzEQlCz_Q4wYrM-8" value="Post - /&lt;span style=&quot;color: rgb(80 , 80 , 80) ; font-family: &amp;#34;inter&amp;#34; , &amp;#34;opensans&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;extgw/NAS&lt;br&gt;/Notifications/..&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="JRlC7yfzEQlCz_Q4wYrM-0">
-          <mxGeometry x="570" y="30" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="4H3UWxO_og-zEYvJPTqE-9" value="HUB" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-2">
-          <mxGeometry x="20" y="240" width="700" height="120" as="geometry" />
+          <mxGeometry x="20" y="120" width="700" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4H3UWxO_og-zEYvJPTqE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4H3UWxO_og-zEYvJPTqE-9" source="4H3UWxO_og-zEYvJPTqE-11" target="4H3UWxO_og-zEYvJPTqE-12">
           <mxGeometry relative="1" as="geometry" />
@@ -172,18 +140,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4H3UWxO_og-zEYvJPTqE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;" edge="1" parent="4H3UWxO_og-zEYvJPTqE-2" source="4H3UWxO_og-zEYvJPTqE-15">
+        <mxCell id="4H3UWxO_og-zEYvJPTqE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="4H3UWxO_og-zEYvJPTqE-2" source="4H3UWxO_og-zEYvJPTqE-15" target="4H3UWxO_og-zEYvJPTqE-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="474" y="210" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="514" y="280" />
-              <mxPoint x="514" y="230" />
-              <mxPoint x="474" y="230" />
+              <mxPoint x="440" y="350" />
+              <mxPoint x="474" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="4H3UWxO_og-zEYvJPTqE-14" value="NAS" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-2">
-          <mxGeometry x="20" y="360" width="700" height="120" as="geometry" />
+          <mxGeometry x="20" y="240" width="700" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4H3UWxO_og-zEYvJPTqE-15" value="Retrieve the file, process and extract the data" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="4H3UWxO_og-zEYvJPTqE-14">
           <mxGeometry x="380" y="10" width="80" height="60" as="geometry" />
