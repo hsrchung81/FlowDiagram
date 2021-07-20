@@ -1,1 +1,132 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T19:09:37.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" version="14.7.6" etag="w4tJuXl380DlhqqJdyHD" type="github"><diagram id="gdpC2xkygBj0BbcdlLFi">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-20T20:38:00.246Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="3dHbPr7VToO__2zuKa7q" version="14.7.6" type="github" pages="2">
+  <diagram id="gdpC2xkygBj0BbcdlLFi" name="Page-1">
+    <mxGraphModel dx="867" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-1" value="RBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="280" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-2" value="NAS MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-3" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-4" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-8" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="XaegZ6TYUQ47JmJd5RV1-1" target="XaegZ6TYUQ47JmJd5RV1-2">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="310" y="480" as="sourcePoint" />
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-9" value="TD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-10" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="XaegZ6TYUQ47JmJd5RV1-2" target="XaegZ6TYUQ47JmJd5RV1-9">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="620" y="430" as="sourcePoint" />
+            <mxPoint x="720" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-12" value="Queue Managers (RBCQM)&lt;br&gt;Sender Queue (Ext 5500)&lt;br&gt;Receiver Queue (Ext 7000)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="455" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-13" value="Queue Managers (NASQM)&lt;br&gt;Sender Queue (Ext 7000)&lt;br&gt;Receiver Queue (Ext 5500)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="395" y="455" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-15" value="" style="endArrow=none;html=1;exitX=1.027;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XaegZ6TYUQ47JmJd5RV1-12" target="XaegZ6TYUQ47JmJd5RV1-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-16" value="Queue Managers (NASQM)&lt;br&gt;Sender Queue (Ext 8008)&lt;br&gt;Receiver Queue (Ext 9999)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="550" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-17" value="Queue Managers (NASQM)&lt;br&gt;Sender Queue (Ext 9999)&lt;br&gt;Receiver Queue (Ext 8008)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="455" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-19" value="" style="endArrow=none;html=1;exitX=1.013;exitY=0.687;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XaegZ6TYUQ47JmJd5RV1-16" target="XaegZ6TYUQ47JmJd5RV1-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-22" value="NAS Portal User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-25" value="RBC User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-26" value="BMO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-27" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XaegZ6TYUQ47JmJd5RV1-29" value="NAS Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="415" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="sK8_yPDP4d4bCUkNRoDJ" name="Page-2">
+    <mxGraphModel dx="867" dy="505" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-0" />
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-1" parent="hJ9wqlWAVQDfK7VmwKi3-0" />
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-2" value="RBC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="150" y="280" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-3" value="NAS MQ" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="410" y="280" width="130" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-4" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="160" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-5" value="MQ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="420" y="370" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-6" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="hJ9wqlWAVQDfK7VmwKi3-1" source="hJ9wqlWAVQDfK7VmwKi3-2" target="hJ9wqlWAVQDfK7VmwKi3-3">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="310" y="480" as="sourcePoint" />
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-7" value="Queue Managers (RBCQM)&lt;br&gt;Sender Queue (Ext 5500)&lt;br&gt;Receiver Queue (Ext 7000)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="100" y="455" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-8" value="Queue Managers (NASQM)&lt;br&gt;Sender Queue (Ext 7000)&lt;br&gt;Receiver Queue (Ext 5500)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="395" y="455" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-9" value="" style="endArrow=none;html=1;exitX=1.027;exitY=0.52;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.017;entryY=0.507;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hJ9wqlWAVQDfK7VmwKi3-1" source="hJ9wqlWAVQDfK7VmwKi3-7" target="hJ9wqlWAVQDfK7VmwKi3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-10" value="Queue Managers (NASQM)&lt;br&gt;Sender Queue (Ext 8008)&lt;br&gt;Receiver Queue (Ext 9999)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="405" y="550" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-11" value="RBC User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="80" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-12" value="NAS Portal" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="405" y="180" width="135" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-13" value="Appraiser" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="590" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hJ9wqlWAVQDfK7VmwKi3-14" value="Operation (system admin)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="hJ9wqlWAVQDfK7VmwKi3-1">
+          <mxGeometry x="350" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
