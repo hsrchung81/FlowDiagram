@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T14:16:04.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="QXl4Zy6QDjSaJYnSvXxF" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T14:16:23.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="X8IvMpBsDC3qihML-Ek2" version="15.0.6" type="github" pages="2">
   <diagram id="NPjKo0UEVmGPg_6SEsO7" name="Current situation">
     <mxGraphModel dx="1550" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,19 +173,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lhht_wvyZt1comAvVJcx-13" value="IT Teams" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+        <mxCell id="Lhht_wvyZt1comAvVJcx-13" value="IT Teams" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
           <mxGeometry x="440" y="630" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lhht_wvyZt1comAvVJcx-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+        <mxCell id="Lhht_wvyZt1comAvVJcx-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
           <mxGeometry x="463.92" y="630" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lhht_wvyZt1comAvVJcx-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+        <mxCell id="Lhht_wvyZt1comAvVJcx-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
           <mxGeometry x="487.5" y="640" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lhht_wvyZt1comAvVJcx-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+        <mxCell id="Lhht_wvyZt1comAvVJcx-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
           <mxGeometry x="511.42" y="630" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lhht_wvyZt1comAvVJcx-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+        <mxCell id="Lhht_wvyZt1comAvVJcx-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
           <mxGeometry x="530" y="650" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Lhht_wvyZt1comAvVJcx-19" value="&lt;b&gt;Change Request/Enhancement coming from different direction to IT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
