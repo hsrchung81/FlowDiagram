@@ -1,1 +1,197 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T14:11:51.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="lLBhzRB2IHL7QIhIZTXk" version="15.0.6" type="github"><diagram id="NPjKo0UEVmGPg_6SEsO7" name="Page-1">7Vpbc+MmFP41fqxHQlc/Oo6925l04jY7s92+7GAJy3Ql4SIU2/n1BQvdQLazG2ntaZoHBw4HEOc750McMbJmyf4DhdvNbyRE8QgY4X5k3Y8AMB3H4P+E5FBIfH9SCCKKQ6lUC57wC5JC2S/KcYiyliIjJGZ42xYGJE1RwFoySCnZtdXWJG7PuoUR0gRPAYx16Wccso1cRbksIf+IcLQpZzYN2ZLAUlkKsg0Mya4hsuYja0YJYUUp2c9QLIxX2qXotzjRWj0YRSl7TYevS/pX9vg4eZw/7IDz2Z9mv6NfTL8Y5hnGuVyxfFp2KE3AH3wrimjP57kLSb46tpi8QkmehiiUtd0GM/S0hYFo3nF/4LINS2LZnDFKvqEZiQk9DmwZxz/essZx3JAvvIWzmHK5fDZEGdqfXLVZ2ZI7ISIJYvTAVWQHGzhFF+l/rinruxpN05WyTRNJQwqh9KCoGrs2Mi9IO3+PzSeazWcbmHI/BMYf6J8cZWwksLR0KFDInVNWCWUbEpEUxvNaehfk9LkCpIZHWLnu8EDIVqr8jRg7yLCDOSNtyLiR6eFP0X/slNUvcrhj5X7fqh2atSWimFsMUSksViOWcB5LvmKS0wCdM6FkAkgjxM7oud2+QVEMGX5uP0cXzseuU0rhoaGwJThlWWPkpRDULmdadsvlgKcEpqIPJpO36bvn9W3XPqfPC8UKa4+uTPUGJ7/MKyKuMWfaB7hC8ZJkmGGS8qYVYYwkbUcsdacxjoQOEw58B2Ut4A4k3EyhmJSkSGcXw7ibL4BQlryW7COxd43hS07ROM+OI/VAPWa5h0m727ahUY/tjTu4p9xd+qce+5XUY/8A9byZbVrc1SNbgD5YQAsrZ9KG1y3DrByiYCfZqwbue+nEc+zOeQYN3/Kl5aKjOLe0R/l2a5MaA//K+xS45X1KdSzL+hmO9f++4Fm3ty84rwx36+rh3mN02oPsC7ZjtfnaVFDraV8Afjt8HePCa6DyXIr+MOGuv2+8u3AvX7crmvWuHu6uhsqSkjAPhLd8QjC5GkZnsdAANIzFoqcsga1gBK6OkdkFEiaUm/6F8ycwOgj6AWfsv0TQ3iAE7VhqSmgYgnY8ZZ+XqahTBK3qO/YFfWUdiv4whO5dJvSGL8BsWyRl13gvfOpk1BeZUaOLKLr5RCED686/X5gdDBIFWzBe5cE3xL5mx7RuD2yh5BStic4Wvju2gU4X3lB0oedxf/0k2Tz7GXT+Q7trpzcMQOeudXU613O+7w8V1xpPwK0BY+qZjveHjF/ZvATmBs6k10kh3xQwjmlW28gNhcx1kji3hYySxHGd68NiabB0J3FMDa3mGSFDUcKN0DwgoDScim/pAo0YZhkOlBTsHrPGV0Je+9JoqXOvonJoVIb+Qqij10CnxKELm7emgAzlzd9XMC8eXzth6ANpXqZ8lO7pqKJ+siznGTYV3EXwbiwuGax4IRIF3YEX85TLAiR8dCTufSQ4jXhhTTmtACPE6zWiRVuIKT99CN4Rl0b4j3glLibg41RzaNHAipsOJ68udCSUpOji4SXBYXgMqa67Eu2jdw8kBVy/BWt1OaVJUl3HFFM9Er+CpHi1vsxS+Eh9Jcia/ws=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-08T14:16:04.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="QXl4Zy6QDjSaJYnSvXxF" version="15.0.6" type="github" pages="2">
+  <diagram id="NPjKo0UEVmGPg_6SEsO7" name="Current situation">
+    <mxGraphModel dx="1550" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_PrZsOO9OELw25W8AsQe-18" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#F7F5FA;" parent="1" vertex="1">
+          <mxGeometry x="425" y="615" width="165" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-19" value="Change Request #2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_PrZsOO9OELw25W8AsQe-1" target="_PrZsOO9OELw25W8AsQe-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="134" y="270" />
+              <mxPoint x="299" y="270" />
+              <mxPoint x="299" y="260" />
+              <mxPoint x="464" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-1" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
+          <mxGeometry x="110" y="440" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-14" value="Change Request #4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="_PrZsOO9OELw25W8AsQe-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="664" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="754" y="664" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-20" value="Change Request #5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="_PrZsOO9OELw25W8AsQe-2" target="_PrZsOO9OELw25W8AsQe-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-2" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
+          <mxGeometry x="730" y="440" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-15" value="Change Request #3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_PrZsOO9OELw25W8AsQe-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="500" />
+              <mxPoint x="453" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" parent="1" vertex="1">
+          <mxGeometry x="260" y="370" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-6" value="Product Team" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.user;fillColor=#0000FF;" parent="1" vertex="1">
+          <mxGeometry x="440" y="320" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-16" value="Prioritized Change Request List" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_PrZsOO9OELw25W8AsQe-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="425" />
+              <mxPoint x="570" y="545" />
+              <mxPoint x="535" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-7" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.bucket_scale" parent="1" vertex="1">
+          <mxGeometry x="425" y="390" width="86.42" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-8" value="IT Teams" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="440" y="630" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="463.92" y="630" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-10" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="487.5" y="640" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-11" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="511.42" y="630" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" parent="1" vertex="1">
+          <mxGeometry x="530" y="650" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-13" value="Change Request #1" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="_PrZsOO9OELw25W8AsQe-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="480" as="sourcePoint" />
+            <mxPoint x="430" y="655" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="134" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PrZsOO9OELw25W8AsQe-21" value="&lt;b&gt;Change Request/Enhancement coming from different direction to IT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="268" y="100" width="442" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Proposed Change" id="3LiytaKtVFtDAyuTH2ZK">
+    <mxGraphModel dx="1550" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-0" />
+        <mxCell id="Lhht_wvyZt1comAvVJcx-1" parent="Lhht_wvyZt1comAvVJcx-0" />
+        <mxCell id="Lhht_wvyZt1comAvVJcx-12" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#3B8DF1;shape=mxgraph.gcp2.bucket_scale" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="440" y="400" width="86.42" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-2" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#F7F5FA;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="425" y="615" width="165" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-3" value="Change Request #2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lhht_wvyZt1comAvVJcx-1" source="Lhht_wvyZt1comAvVJcx-4" target="Lhht_wvyZt1comAvVJcx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="134" y="240" />
+              <mxPoint x="464" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KRBBXrkw-DbNL_L3zrOf-0" value="Change Request #1" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.84;exitY=0.28;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.28;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lhht_wvyZt1comAvVJcx-1" source="Lhht_wvyZt1comAvVJcx-4" target="Lhht_wvyZt1comAvVJcx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="454" />
+              <mxPoint x="190" y="290" />
+              <mxPoint x="453" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="110" y="440" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-5" value="Change Request #4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.87;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lhht_wvyZt1comAvVJcx-1" source="Lhht_wvyZt1comAvVJcx-7" target="Lhht_wvyZt1comAvVJcx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="664" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="754" y="380" />
+              <mxPoint x="520" y="380" />
+              <mxPoint x="520" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-6" value="Change Request #5" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.84;entryY=0.28;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lhht_wvyZt1comAvVJcx-1" source="Lhht_wvyZt1comAvVJcx-7" target="Lhht_wvyZt1comAvVJcx-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="754" y="334" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="730" y="440" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-8" value="Change Request #3" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Lhht_wvyZt1comAvVJcx-1" source="Lhht_wvyZt1comAvVJcx-9" target="Lhht_wvyZt1comAvVJcx-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="453" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="320" />
+              <mxPoint x="420" y="320" />
+              <mxPoint x="420" y="353" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-9" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="260" y="370" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-10" value="&lt;br&gt;Dedicated Planning team" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;shape=mxgraph.azure.user;fillColor=#0000FF;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="440" y="320" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-11" value="Prioritized Change Request List" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Lhht_wvyZt1comAvVJcx-1" source="Lhht_wvyZt1comAvVJcx-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="425" />
+              <mxPoint x="570" y="545" />
+              <mxPoint x="535" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-13" value="IT Teams" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="440" y="630" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-14" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="463.92" y="630" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-15" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="487.5" y="640" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-16" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="511.42" y="630" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;fillColor=#00BEF2;shape=mxgraph.azure.user;strokeColor=none;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="530" y="650" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Lhht_wvyZt1comAvVJcx-19" value="&lt;b&gt;Change Request/Enhancement coming from different direction to IT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="268" y="100" width="442" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
