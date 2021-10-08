@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-08T14:16:23.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="X8IvMpBsDC3qihML-Ek2" version="15.0.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-08T14:25:55.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="rIQD0Uj-ofbd3__Ttgpi" version="15.0.6" type="github" pages="2">
   <diagram id="NPjKo0UEVmGPg_6SEsO7" name="Current situation">
     <mxGraphModel dx="1550" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="_PrZsOO9OELw25W8AsQe-21" value="&lt;b&gt;Change Request/Enhancement coming from different direction to IT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="268" y="100" width="442" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="pCA-BUZuogGv3JGFmiGA-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;IT team get request from multiple source.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Multiple sources going to Tom for change request and all end up #1 priority&lt;/li&gt;&lt;li&gt;This create problem for IT as all #1 cannot be taken care of at the same time.&lt;/li&gt;&lt;li&gt;No centralize view of all the change requests that are running&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="680" width="330" height="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -188,8 +191,11 @@
         <mxCell id="Lhht_wvyZt1comAvVJcx-17" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.azure.user;strokeColor=none;fillColor=#009900;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
           <mxGeometry x="530" y="650" width="47.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Lhht_wvyZt1comAvVJcx-19" value="&lt;b&gt;Change Request/Enhancement coming from different direction to IT&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
-          <mxGeometry x="268" y="100" width="442" height="110" as="geometry" />
+        <mxCell id="Lhht_wvyZt1comAvVJcx-19" value="&lt;b&gt;Dedicated Planning team to get all change request/enhancement list&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="180" y="70" width="442" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="FbGY4etm45lQdQtz7-i8-0" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Single source to collect list of change requests.&lt;br&gt;&lt;/li&gt;&lt;li&gt;Single source to take it to Tom to prioritize&lt;/li&gt;&lt;li&gt;IT receive list of prioritized list from a single source&lt;/li&gt;&lt;li&gt;Outcome: Better control of list of projects being worked on and in the pipeline&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="Lhht_wvyZt1comAvVJcx-1">
+          <mxGeometry x="60" y="615" width="330" height="245" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
