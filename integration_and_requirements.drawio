@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T16:03:28.169Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="SQ2K_gpQr7BlBGYUkQvj" version="15.5.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-26T16:04:54.040Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="jWOLbP3-tLaD5lP2XJEz" version="15.5.2" type="github">
   <diagram id="JeM2oguLR3vM5HerTo6W" name="Integration vs Portal">
     <mxGraphModel dx="1013" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -52,14 +52,6 @@
             <mxPoint x="850" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="8qRS8V2WzrsU3doKNQkc" name="Page-2">
-    <mxGraphModel dx="1013" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
-      <root>
-        <mxCell id="3N2YCXZQfUV8q3YNhN2o-0" />
-        <mxCell id="3N2YCXZQfUV8q3YNhN2o-1" parent="3N2YCXZQfUV8q3YNhN2o-0" />
       </root>
     </mxGraphModel>
   </diagram>
