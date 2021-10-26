@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-14T15:14:05.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="M98X_H-A9Y_NGbE_KIeW" version="15.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T21:33:09.443Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="6O8p4YJe_C4zFhKt6-fd" version="15.5.2" type="github">
   <diagram id="qWU6kW-oRt3lZIr3jh0V" name="Page-1">
     <mxGraphModel dx="1550" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -110,6 +110,9 @@
         </mxCell>
         <mxCell id="jc_f-9-iA9PtCbb8wJDW-39" value="Finance team process&amp;nbsp;&lt;br&gt;(AR) Account Receivable &amp;amp;&lt;br&gt;(AP) Account Payable" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Person.svg;fontColor=#000000;fillColor=#CCFF99;" parent="1" vertex="1">
           <mxGeometry x="880" y="320" width="37" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="acCJLVTEQawjztJ0hsB_-1" value="&lt;font style=&quot;font-size: 9px&quot;&gt;Financial Filter&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110.03999999999999" y="356.55" width="78.98" height="13.45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
